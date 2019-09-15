@@ -5,7 +5,8 @@ Solving Shelf Algorithm Problem in Python and MFC
 https://tibyte.kr/239
 
 ## 결과 이미지
-#### MFC 구현
+#### MFC / python 구현 이미지
+
 <img src = './mfc image.jpg' width='50%' height='50%'>
-#### Python 구현
+
 <img src = './python image.jpg' width='50%' height='50%'>
