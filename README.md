@@ -7,6 +7,6 @@ https://tibyte.kr/239
 ## 결과 이미지
 #### MFC / python 구현 이미지
 
-<img src = './mfc image.png' width='50%' height='50%'>
+<img src = './mfc image.PNG' width='30%' height='30%'>
 
-<img src = './python image.jpg' width='50%' height='50%'>
+<img src = './python image.jpg' width='30%' height='30%'>
